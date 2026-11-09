@@ -1,27 +1,41 @@
-## Hello, Jeffery Jia here
+# Hello, I'm Jeffery Jia
 
-### Data Analyst
+### Data Analyst | M.S. Data Analytics
+
+I am a data analyst based in Orlando, Florida with experience in statistical analysis, predictive modeling, business reporting, and data-driven decision making.
 
 ## Skills
-###- R
-###- SQL
-###- Excel
-###- Statistical Analysis
 
-##Featured Projects
-### Using machine learning and predictive modeling to determine what traits of a dating profile are more appealing to other users
+- R
+- SQL
+- Python
+- Excel
+- Statistical Analysis
+- Predictive Modeling
+- Machine Learning
+- Data Visualization
 
-<!--
-**jeffjia1998/jeffjia1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Featured Projects
 
-Here are some ideas to get you started:
+### Dating Profile Machine Learning Analysis
+Used machine learning and predictive modeling techniques to identify which dating profile characteristics were most associated with positive user engagement and match outcomes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Tools:** R, SQL, Excel, Machine Learning
+
+### Real Estate Predictive Modeling
+Developed regression models to estimate the probability of successful property purchases and identify key factors influencing outcomes.
+
+**Tools:** R, Statistical Modeling
+
+## Education
+
+**Western Governors University**  
+M.S. Data Analytics
+
+**University of South Florida**  
+B.S. Biomedical Sciences
+
+## Connect With Me
+
+📧 Jefferyjia1998@gmail.com  
+📍 Orlando, Florida
