@@ -3,7 +3,6 @@
 ### Data Analyst
 
 ## Skills
-
 ###- R
 ###- SQL
 ###- Excel
